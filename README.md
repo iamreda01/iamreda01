@@ -16,7 +16,7 @@
 ## 🧿 STATUS
 
 <p align="center">
-  <img src="https://media.tenor.com/6cB00Fl1QXYAAAAC/gojo-satoru-gojo.gif" width="320"/>
+  <img src="https://tenor.com/view/satoru-gojo-gif-15821239126738319440" width="320"/>
 </p>
 
 ```txt
