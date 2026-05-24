@@ -11,6 +11,14 @@
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
 </p>
 
+### Available Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## Supported languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black)
+
 ---
 <p align="center">
   <img src="https://media1.tenor.com/m/h7CZbik22-UAAAAC/satoru-satoru-gojo.gif" width="1020"/>
