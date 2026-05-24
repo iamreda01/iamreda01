@@ -16,7 +16,7 @@
 ## 🧿 STATUS
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Y2b2l3bG9mN2Z6b2p2d2p6d2F3b2J4b2V2b3J5eGJ6d2F6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="320"/>
+  <img src="https://media.tenor.com/6cB00Fl1QXYAAAAC/gojo-satoru-gojo.gif" width="320"/>
 </p>
 
 ```txt
